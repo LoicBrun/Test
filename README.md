@@ -1,4 +1,7 @@
 # Test
 Traning repository
 
-this file is different than the master branch's file
+
+
+Where am I ? Does this modification is directly inside the master branch ?
+answer in few minutes
