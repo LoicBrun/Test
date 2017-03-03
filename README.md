@@ -1,4 +1,3 @@
 # Test
-Traning repository
-
-this file is different than the master branch's file
+Still Traning repository...
+Hum... I can see that i've done bullshits. Must be the last time !!!
