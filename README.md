@@ -1,7 +1,5 @@
 # Test
-Traning repository
 
+Still Traning repository...
 
-
-Where am I ? Does this modification is directly inside the master branch ?
-answer in few minutes
+Hum... I can see that i've done bullshits. Must be the last time !!!
